@@ -17,8 +17,8 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-jdflixwjju)
-- [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-NFT-Preview-Card-Component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/fylo-data-storage-component-d_uFgqv3x7)
+- [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Fylo-Data-Component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
